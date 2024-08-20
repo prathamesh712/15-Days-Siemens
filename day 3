@@ -11,18 +11,9 @@ hey i am good
 "i want to eat burger'''
 print(burger)
 
+print(name[0])
+print(name[4])
 
-
-name = "prathamesh"
-friend = "Shashank"
-AnotherFriend = "Parth"
-print("hi," + name)
-print("hello," + friend)
-print("hey," + AnotherFriend)
-
-burger = ''''he said,
-hi prathamesh
-hey i am good
-"i want to eat burger'''
-print(burger)
-   
+print("lets use a for loop\n")
+for character in burger:
+  print(character)
