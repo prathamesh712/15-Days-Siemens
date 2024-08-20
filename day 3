@@ -1,0 +1,28 @@
+name = "prathamesh"
+friend = "Shashank"
+AnotherFriend = "Parth"
+print("hi," + name)
+print("hello," + friend)
+print("hey," + AnotherFriend)
+
+burger = ''''he said,
+hi prathamesh
+hey i am good
+"i want to eat burger'''
+print(burger)
+
+
+
+name = "prathamesh"
+friend = "Shashank"
+AnotherFriend = "Parth"
+print("hi," + name)
+print("hello," + friend)
+print("hey," + AnotherFriend)
+
+burger = ''''he said,
+hi prathamesh
+hey i am good
+"i want to eat burger'''
+print(burger)
+   
