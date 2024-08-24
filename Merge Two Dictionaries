@@ -1,0 +1,5 @@
+dict = {"prathamesh":72, "pranav":78}
+dict2 = {"sarthak" : 98, "sunil":99}
+dict3 = dict2.copy()
+dict3.update(dict)
+print(dict3)
