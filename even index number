@@ -1,0 +1,6 @@
+name = input("Enter name :")
+print("orignal name : , name")
+size = len(name)
+print("printing only even index chars")
+for i in range(0, size - 1, 2):
+  print("index[", i, "]", name[i])
